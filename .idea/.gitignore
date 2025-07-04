@@ -1,8 +1,10 @@
-# Default ignored files
+# Arquivos ignorados padrão
 /shelf/
 /workspace.xml
-# Editor-based HTTP Client requests
+# Solicitações de cliente HTTP baseadas em editor
 /httpRequests/
-# Datasource local storage ignored files
+# Arquivos ignorados pelo armazenamento local da fonte de dados
 /dataSources/
 /dataSources.local.xml
+# Ignorar arquivos de configuração do PyCharm
+.idea/
