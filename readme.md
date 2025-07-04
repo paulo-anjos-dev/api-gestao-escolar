@@ -11,7 +11,7 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
 ## Passos para subir o projeto
 
 1. **Faça o download do repositório:**
-   [Clique aqui para realizar o download](https://github.com/guilhermeonrails/imersao-devops/archive/refs/heads/main.zip)
+   [Clique aqui para realizar o download](https://github.com/paulo-anjos-dev/api-gestao-escolar/archive/refs/heads/main.zip)
 
 2. **Crie um ambiente virtual:**
    ```sh
